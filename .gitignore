@@ -13,3 +13,5 @@ cabal.sandbox.config
 
 # Emacs lock files
 .#*
+
+\.stack-work

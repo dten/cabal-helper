@@ -1,0 +1,5 @@
+packages: 
+- ./
+extra-deps:
+- semigroupoids-5.2.1
+resolver: nightly-2017-07-25
